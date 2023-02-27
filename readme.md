@@ -27,3 +27,22 @@ fileName means the name of file(can be anything eg, HTML/CSS/Js/txt,README.md)
 #My name Is Ismail 
 
 ' I have nothing to say , but I will say that anyway
+
+# Alexander Sergeev
+
+Hi everyone, my name is Alexander. I have more than ten years of experience in various IT fields. I started out as an HTML/CSS coder and also used JavaScript and PHP. After that, I took up SEO and became an Internet Marketer. Then, I returned to development.
+
+#### What I'm using
+<div>
+  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&labelColor=e34f26&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&labelColor=cc6699&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=3178c6&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"> <!--<img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux-saga&labelColor=999999&logoColor=white">-->
+</div>
+<div>
+<img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</div>
