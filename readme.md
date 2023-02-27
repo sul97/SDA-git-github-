@@ -27,3 +27,7 @@ fileName means the name of file(can be anything eg, HTML/CSS/Js/txt,README.md)
 #My name Is Ismail 
 
 ' I have nothing to say , but I will say that anyway
+
+# My name is Mahjabeen
+creating a relative link here
+[mahjabeen.md](https://github.com/Integrify-Finland/fs14-github/blob/main/mahjabeen.md)
