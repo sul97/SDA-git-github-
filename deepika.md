@@ -5,7 +5,7 @@ I am Deepika.
 I like to 
   * code 
   * read
-  * badminton <br />
+  * play badminton <br />
 
 
 Excited to be a part of fs-14.Happy coding
