@@ -1,13 +1,8 @@
+# This is basic git revision
 
-# Hi I am Md Touhidul Islam
+To create new file from cmd in a folder with git touch command is used.
+     Set-Alias -Name touch -Value New-Item 
+and after this line simply adding   touch fileName   will add new file
+fileName means the name of file(can be anything eg, HTML/CSS/Js/txt,README.md) 
 
-## About me
-
-I am a student of Software Engineering, Tampere Univesity of Applied Sciences, Finland. and I’m passionate about all things JavaScript and React. 
-I work hard. I care about writing clean code and love to learn.
-I’m currently looking for the right opportunity to work in an environment that will help me progress into a full-stack role. 
-My graduation is expected to take place in May of the following year. 
-Because of my training and experience, I want to approach my work with more professionalism. Areas of interest for full-stack development. 
-In the future, I want to work professionally as a full-stack developer. 
-More projects and teams are also things I want to work on. I'm hoping for the assistance of your company.
 
