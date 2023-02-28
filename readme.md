@@ -63,4 +63,4 @@ Yazan is a Great teacher BTW 😁
 * Play the piano is great
 * I love Winter!
 
-I am really exited about this experience about this new experience at Integrify
+I am really exited about this new experience at Integrify :)
