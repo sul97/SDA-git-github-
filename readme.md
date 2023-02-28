@@ -2,6 +2,6 @@
 # Hi i am happy to see you. 
 # Its me Kedar Kandel
 
-# My team Integrify
+# I am glad to share the journey with you..
 
-# go on.........👋
+# 👋
