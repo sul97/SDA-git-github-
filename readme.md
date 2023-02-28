@@ -56,3 +56,11 @@ I love to code, eat tasty food, love summers and I love to be able to have this 
 Yazan is a Great teacher BTW 😁
 
 # Hi, my Name is Mirza Zohaib Baig 👋
+
+# Hi I am Abraham Pineda
+
+* I enjoy team sports
+* Play the piano is great
+* I love Winter!
+
+I am really exited about this new experience at Integrify :)
