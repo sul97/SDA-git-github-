@@ -1,3 +1,14 @@
+
+#GitHub assignment
+# Hi i am happy to see you. 
+# Its me Kedar Kandel
+
+# I am glad to share the journey with you..
+
+# ⚽️   🏏   🎸   🎮 
+# 👋
+=====
+
 # This is basic git revision
 
 Hi I am David!
@@ -69,3 +80,4 @@ I am really exited about this new experience at Integrify :)
 # Hi I am Fabio..
 Happy coding to everyone!!
 I am learning a lot here, plus this year I am trying to learn THREE.js, SVG, and much more.. good luck to me and to everyone!
+
