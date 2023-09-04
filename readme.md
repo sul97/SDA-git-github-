@@ -1,83 +1,33 @@
+# Github and readme
 
-#GitHub assignment
-# Hi i am happy to see you. 
-# Its me Kedar Kandel
+## Level 1: Basic Requirements
 
-# I am glad to share the journey with you..
+In this assignment, you will create a readme file in your student folder with your own name (e.g., Mohammed.md), write your personal information, and also share what you have learned about Git & GitHub. Follow these instructions:
 
-# ⚽️   🏏   🎸   🎮 
-# 👋
-=====
+1. Fork this repository and then clone the forked repository to your computer.
+2. Create a new file in your students folder and name it with your own name, e.g., "yourname.md".
+3. Write a brief introduction to introduce yourself which may include your name, skills, and your current course or program of study.
+4. Add the README.md file to the staging area.
+5. Commit your changes and push them to your forked repository.
+6. Create a pull request to the original repository.
 
-# This is basic git revision
+## Level 2: Additional Requirements
 
-Hi I am David!
-I like: - Climbing - Working out
+In addition to the basic requirements, enhance your readme file with the following information:
 
-- Coding - Martial Arts - Playing Go
+1. Create a new branch named "git-learning" and switch to that branch.
+2. Include five things you have learned about Git and GitHub in today's lesson in the README.md file.
+3. Add the changes to the staging area and commit them.
+4. Switch back to the main branch.
+5. Merge the changes from the git-learning branch into the main branch.
+6. Push the changes to your GitHub repository.
 
-My name is Miika.
-I like coding.
+## Level 3: Bonus Requirements (Optional)
 
-I have created a new branch named feature-olgaristeli
+If you want to go the extra mile, you can include the following information:
 
-## My name is Dmitry
+- Peer, please add the label "Ready to Review".
 
-- I like coding
+`Please note that the bonus requirements and reviews are optional and can be completed if you have additional time and advanced skills.`
 
-# Hi I am Md Touhidul Islam
-
-To create new file from cmd in a folder with git touch command is used.
-Set-Alias -Name touch -Value New-Item
-and after this line simply adding touch fileName will add new file
-fileName means the name of file(can be anything eg, HTML/CSS/Js/txt,README.md)
-
-#My name Is Ismail
-
-' I have nothing to say , but I will say that anyway
-
-# My name is Mahjabeen
-
-creating a relative link here
-[mahjabeen.md](https://github.com/Integrify-Finland/fs14-github/blob/main/mahjabeen.md)
-
-# Alexander Sergeev
-
-Hi everyone, my name is Alexander. I have more than ten years of experience in various IT fields. I started out as an HTML/CSS coder and also used JavaScript and PHP. After that, I took up SEO and became an Internet Marketer. Then, I returned to development.
-
-#### What I'm using
-
-<div>
-  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&labelColor=e34f26&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&labelColor=cc6699&logoColor=white">
-</div>
-<div>
-<img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=3178c6&logoColor=white">
-</div>
-<div>
-<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"> <!--<img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux-saga&labelColor=999999&logoColor=white">-->
-</div>
-<div>
-<img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</div>
-
-# Hi, my Name is Abdul Mughees 👋
-
-I love to code, eat tasty food, love summers and I love to be able to have this opportunity to learn with integrify and it's amazing team.
-Yazan is a Great teacher BTW 😁
-
-# Hi, my Name is Mirza Zohaib Baig 👋
-
-# Hi I am Abraham Pineda
-
-* I enjoy team sports
-* Play the piano is great
-* I love Winter!
-
-I am really exited about this new experience at Integrify :)
-
-
-# Hi I am Fabio..
-Happy coding to everyone!!
-I am learning a lot here, plus this year I am trying to learn THREE.js, SVG, and much more.. good luck to me and to everyone!
-
+Happy creating and sharing your personal info readme!
