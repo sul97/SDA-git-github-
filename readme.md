@@ -26,7 +26,8 @@ In addition to the basic requirements, enhance your readme file with the followi
 
 If you want to go the extra mile, you can include the following information:
 
-- Peer, please add the label "Ready to Review".
+- Peer reviews.
+- Add the label "Ready to Review".
 
 `Please note that the bonus requirements and reviews are optional and can be completed if you have additional time and advanced skills.`
 
