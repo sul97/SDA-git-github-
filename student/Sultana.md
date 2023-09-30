@@ -1,6 +1,8 @@
-my name is sultana almalki 
-i learning react
+My name is Sultana Almalki
 
+I have technical skills in 
+Programming, networking, and dealing with system infrastructure
+I learning react
 
 five thing i learning:
 1- ues github to cooperate in project work
